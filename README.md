@@ -13,6 +13,7 @@ API REST: Criação de controllers e implementação da API Rest.
 Repositórios JPA: Simplificação do acesso ao banco de dados.
 Mapeamento de Entidades JPA: Criação e configuração das entidades.
 CRUD com Validações: Implementação completa do CRUD com validações.
+
 🚀 Tecnologias Utilizadas
 Java
 Spring Boot
